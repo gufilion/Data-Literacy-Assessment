@@ -1,7 +1,7 @@
 {
   "name": "data-literacy-assessment",
   "version": "0.1.0",
-  "homepage": "https://gufilion.github.io/Data-Literacy-Assessment-master/",
+  "homepage": "https://gufilion.github.io/Data-Literacy-Assessment/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
